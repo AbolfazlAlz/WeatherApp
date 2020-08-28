@@ -1,5 +1,0 @@
-name: WeatherHelper
-dependencies:
-  http: ^0.12.2
-  js: ^0.6.0
-  intl: ^0.15.8
